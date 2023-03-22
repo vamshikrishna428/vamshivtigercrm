@@ -1,0 +1,31 @@
+Scenario 1-> CreateContactTest
+------------------------------
+Login to vtiger-> click on contacts-> click on create contact-> enter last Name-> click on save-> validate the last name -> logout
+
+Scenario 2-> CreateCampaignTest
+------------------------------
+Login to vtiger-> click on Campaign-> click on create Campaign-> enter Campaign Name-> click on save-> validate the Campaign name -> logout
+
+Scenario 3-> CreateOrganizationTest
+------------------------------
+Login to vtiger-> click on Organization-> click on create Organization-> enter Organization Name-> click on save-> validate the Organization name -> logout
+
+Scenario 4-> CreateProductTest
+------------------------------
+Login to vtiger-> click on Product-> click on create Product-> enter Product Name-> click on save-> validate the Product name -> logout
+
+Scenario 5-> CreateOrganizationWithIndustryAndTypeTest
+------------------------------------------
+Login to vtiger-> click on Organization-> click on create Organization-> enter Organization Name, select the Industry as EDUCATION and select the Type as PRESS, click the group radio button-> click on save-> validate the Orgnization name, Industry, type -> logout
+
+Scenario 6-> CreateContactWithOrganizationTest
+-----------------------------------------------
+Login to vtiger-> click on Organization-> click on create Organization-> enter Organization Name-> click on save->  click on contact-> click on create contact-> enter contact last Name, select the organization -> click on save-> validate lastname, organization name->  logout
+
+Scenario 7-> CreateCampaignWithProductTest
+-----------------------------------------------
+Login to vtiger-> click on Product-> click on create Product-> enter Product Name-> click on save->  click on Campaign-> click on create Campaign-> enter Campaign Name, select the Product -> click on save-> validate Campaign name, product name->  logout
+
+Scenario 8-> CreateDocumentTest
+------------------------------
+Login to vtiger-> click on Document-> click on create Document-> enter title, add some note in Description, attach any file which is below 3 MB-> click on save-> validate the title, note, fileName -> logout

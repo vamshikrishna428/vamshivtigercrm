@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-16T10:19:55 IST" name="Default suite" finished-at="2023-03-16T10:20:18 IST" duration-ms="22648">
+    <groups>
+    </groups>
+    <test started-at="2023-03-16T10:19:55 IST" name="Default test" finished-at="2023-03-16T10:20:18 IST" duration-ms="22648">
+      <class name="org.vtiger.campaigns.CampaignsTest">
+        <test-method is-config="true" signature="classSetup()[pri:0, instance:org.vtiger.campaigns.CampaignsTest@4d154ccd]" started-at="2023-03-16T10:19:55 IST" name="classSetup" finished-at="2023-03-16T10:20:01 IST" duration-ms="5832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classSetup -->
+        <test-method is-config="true" signature="methodSetup()[pri:0, instance:org.vtiger.campaigns.CampaignsTest@4d154ccd]" started-at="2023-03-16T10:20:01 IST" name="methodSetup" finished-at="2023-03-16T10:20:04 IST" duration-ms="3263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodSetup -->
+        <test-method signature="CreateCampaignTest()[pri:0, instance:org.vtiger.campaigns.CampaignsTest@4d154ccd]" started-at="2023-03-16T10:20:04 IST" name="CreateCampaignTest" finished-at="2023-03-16T10:20:15 IST" duration-ms="11079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateCampaignTest -->
+        <test-method is-config="true" signature="methodTeardown()[pri:0, instance:org.vtiger.campaigns.CampaignsTest@4d154ccd]" started-at="2023-03-16T10:20:15 IST" name="methodTeardown" finished-at="2023-03-16T10:20:17 IST" duration-ms="2222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodTeardown -->
+        <test-method is-config="true" signature="classTeardown()[pri:0, instance:org.vtiger.campaigns.CampaignsTest@4d154ccd]" started-at="2023-03-16T10:20:17 IST" name="classTeardown" finished-at="2023-03-16T10:20:18 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- classTeardown -->
+      </class> <!-- org.vtiger.campaigns.CampaignsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
